@@ -1,6 +1,6 @@
 # Spring PetClinic Cloud Microservices - DevOps Modernization Project
 
-[![Build Status](https://travis-ci.org/spring-petclinic/spring-petclinic-cloud.svg?branch=master)](https://travis-ci.org/spring-petclinic/spring-petclinic-cloud/) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 The initial PetClinic application served as a legacy microservices-based Java system that, while functional, did not adhere to modern DevOps practices. As a result, the application struggled with scalability, and the software development lifecycle was ripe for optimization. This project aims to transform the original system into a cloud-native application by leveraging modern DevOps tools and methodologies.
 
