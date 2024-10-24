@@ -17,12 +17,6 @@ The initial PetClinic application served as a legacy microservices-based Java sy
 
 [See the presentation of the Spring Petclinic Framework version](http://fr.slideshare.net/AntoineRey/spring-framework-petclinic-sample-application)
 
-[A blog bost introducing the Spring Petclinic Microsevices](http://javaetmoi.com/2018/10/architecture-microservices-avec-spring-cloud/) (french language)
-
-You can then access petclinic here: http://localhost:8080/
-
-![Spring Petclinic Microservices screenshot](./docs/application-screenshot.png?lastModify=1596391473)
-
 ## Implementation Details
 
 ### 1. Infrastructure as Code (IaC) with Terraform
