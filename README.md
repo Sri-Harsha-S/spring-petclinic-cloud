@@ -54,6 +54,7 @@ Using AWS Route 53, we configured our domain (https://petclinicdev.online/) to m
 ## 5. Enhanced Monitoring and Alerts
 To maintain performance visibility:
 
+
 - Prometheus Metrics: We implemented Prometheus to gather metrics from the EKS cluster.
 - Grafana Dashboards: These metrics are visualized using Grafana, allowing us to track performance metrics like CPU usage in real time.
 - Alerting Mechanism: Notifications are sent to our team via Slack whenever key performance indicators exceed predefined thresholds, allowing for quick responsiveness.
